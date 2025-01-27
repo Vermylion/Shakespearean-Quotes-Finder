@@ -2,7 +2,7 @@
 An app designed to get, search, and copy quotations from any of Shakespeare's plays. Primarly designed to work when writing, it stays on top of the window and doesn't disappear when deselected. It's equally meant to be attached to the left side of the screen for easier use, but can be used normally too.
 
 ## Install
-To get the app, head over to the [Releases]() and click on `SHQuotesFinder.exe` to download it.
+To get the app, head over to the [Releases](https://github.com/Vermylion/Shakespearian-Quotes-Finder/releases/tag/1.0) and click on `SHQuotesFinder.exe` to download it.
 
 Alternatively, you can also download the repository (In the dropdown menu of **<> Code**, select **Download ZIP**), getting access to the `.exe` and the `.py` file.
 
