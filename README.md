@@ -1,4 +1,4 @@
-# Shakespearian Quotes Finder
+# Shakespearean Quotes Finder
 An app designed to get, search, and copy quotations from any of Shakespeare's plays. Primarly designed to work when writing, it stays on top of the window and doesn't disappear when deselected. It's equally meant to be attached to the left side of the screen for easier use, but can be used normally too.
 
 ## Install
