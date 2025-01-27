@@ -6,6 +6,8 @@ To get the app, head over to the [Releases](https://github.com/Vermylion/Shakesp
 
 Alternatively, you can also download the repository (In the dropdown menu of **<> Code**, select **Download ZIP**), getting access to the `.exe` and the `.py` file.
 
+**Windows will say this app is a virus. It isn't. Trust me.**
+
 ## Use
 Using the app is quite easy and a simple process, but a guide can never hurt.
 
